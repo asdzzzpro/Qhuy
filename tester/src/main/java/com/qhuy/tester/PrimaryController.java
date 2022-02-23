@@ -9,4 +9,11 @@ public class PrimaryController {
     private void switchToSecondary() throws IOException {
         App.setRoot("secondary");
     }
+    
+    public void blaBla(){
+    
+    }
+    public void bleBle(){
+        int a = 1;
+    }
 }
